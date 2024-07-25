@@ -23,7 +23,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Inline HTML, CSS, and JavaScript Example</h1>
+    <h1>Inline HTML, CSS, and JavaScript Example for the cloud devops</h1>
     <p>This is an example of inline HTML, CSS, and JavaScript.</p>
     <button onclick="changeText()">Click me</button>
     <p id="demo">Click the button to change this text.</p>
